@@ -21,16 +21,29 @@ h3 {
   margin: 0;
 }
 
+h4 {
+  font-size: 18px;
+}
+
+h5 {
+  font-size: 12px;
+}
+
 h1 {
   font-size: 96px;
 }
 
 h2 {
+  padding-top: 50px;
   font-size: 48px;
 }
 
 h3 {
   font-size: 24px;
+  opacity: 0.7;
+}
+
+.opacity {
   opacity: 0.7;
 }
 
@@ -93,6 +106,12 @@ p {
 
 .email-link:hover {
   text-decoration: underline;
+}
+
+.enquiry {
+  border-radius: 20px;
+  background: #f9f7fe;
+  padding: 20px;
 }
 
 @media (max-width: 567px) {
