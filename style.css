@@ -137,5 +137,10 @@ p {
 }
 
 .icon {
+  margin: 0 80px;
   text-align: center;
+  color: var(--primary-color);
+  background: whitesmoke;
+  padding: 10px;
+  border-radius: 50%;
 }
